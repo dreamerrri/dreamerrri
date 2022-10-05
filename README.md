@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... learning to code 
 - 🌱 I’m currently learning ... Python, I'm a beginner but hopefully I improve as time goes on.
 - 💞️ I’m looking to collaborate with ... students and beginners just like me.
-- 📫 How to reach me ...
+- 📫 How to reach me ... idk
 
 <!---
 dreamerrri/dreamerrri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
