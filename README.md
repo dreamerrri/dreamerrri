@@ -38,7 +38,7 @@ passion:
 
 ```
 <div align="center">
-  <img width="100%" src=""/>
+  <img width="100%" src="[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=dreamerrri&showProfilePic=false&showBorder=false&following=false)](https://www.readmecodegen.com/custom-github-card-generator)"/>
 </div>
 
 <!--
