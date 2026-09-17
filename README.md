@@ -38,7 +38,7 @@ passion:
 
 ```
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dreamerrri&theme=nord_dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dreamerrri&show_icons=true&theme=nord" />
 </div>
 
 <!--
