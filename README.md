@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=9&pause=1000&color=00B8DB&center=true&width=435&lines=Full-Stack+Developer;UI%2FUX+Engineer;Chill+Guy" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&color=00B8DB&center=true&width=435&lines=Full-Stack+Developer;UI%2FUX+Engineer;Chill+Guy" alt="Typing SVG" />
 </h1>
 
 
