@@ -37,6 +37,10 @@ passion:
 
 
 ```
+<div align="center">
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username={dreamerrri}&theme={nord_dark}/>
+</div>
+
 <!--
 Put this on yaml at the top later
 currently:
