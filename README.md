@@ -103,7 +103,7 @@ freelance:
 
 <div align="center">
 
-| **Category** | **Technologies** | **Proven in** |
+| **Category** | **Technologies** | **Projects** |
 |---|---|---|
 | **Frontend** | React 19, TypeScript, JavaScript, Tailwind CSS 3/4, shadcn/ui, Motion, GSAP, Lenis, React Router, HTML5, CSS3 | [Frascio](https://github.com/dreamerrri/frascio), [Invoicify](https://github.com/MagicBeans54/Invoicify) |
 | **Backend** | PHP, Laravel 11/12, Node.js, Express, Inertia.js v3, Blade, EJS, Alpine.js, REST APIs | [Aki's Thrift Shop](https://github.com/dreamerrri/aki-sys), [Techstacks Logify](https://github.com/dreamerrri/techstacks) |
